@@ -30,7 +30,7 @@
     "core-js": "2.4.1",
     "cross-spawn": "5.1.0",
     "eslint-config-jquery": "1.0.1",
-    "grunt": "1.0.1",
+    "grunt": "1.5.2",
     "grunt-babel": "6.0.0",
     "grunt-cli": "1.2.0",
     "grunt-compare-size": "0.4.2",
